@@ -4,10 +4,6 @@
   --tertiary-color: ;
 }
 
-body{
-  font-family: 'Andada Pro', serif!important;
-}
-
 /* Navbar */
 #navbar {
   background-color: rgba(0, 0, 0, 0.4);
